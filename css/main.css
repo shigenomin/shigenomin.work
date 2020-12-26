@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    height: 100%;
+    background: #696969;
+    background: linear-gradient(to bottom, #696969 0%, #333333 100%);
+    color: white;
+}
+
+body {
+}
+

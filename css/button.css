@@ -1,0 +1,29 @@
+input.btn-blue {
+  color: #fff;
+  background: #0080ff;
+  border-color: #0080ff;
+  font-weight: bold;
+}
+input.btn-blue:after {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin: -3px 0 0 5px;
+  background-size: contain;
+  vertical-align: middle;
+}
+input.btn-blue:hover {
+    background: #66b3ff;
+}
+ 
+@media screen and (min-width: 768px){
+  input.btn-blue {
+        padding: 0.5em 2em;
+        font-size:20px;
+        border-radius: 5px;
+    }
+  input.btn-blue:before {
+        margin: -3px 0 0 10px;
+    }
+}

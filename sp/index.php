@@ -5,8 +5,8 @@
 		<meta name="robots" content="noindex,nofollow,noarchive" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-		<link rel="icon" href="../image/favicon.png" type="image/png" >
-		<link rel="stylesheet" type="text/css" href="https://shigenomin.work/css/style.css">
+		<link rel="icon" href="./image/favicon.png" type="image/png" >
+		<link rel="stylesheet" type="text/css" href="./css/style.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
   		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 		
@@ -19,7 +19,7 @@
 		<meta property="og:site_name" content="シゲのみんのサイト">
 		<meta property="og:image" content="">
 		
-		<script type="text/javascript" src="../js/userAgent.js"></script>
+		<script type="text/javascript" src="./js/userAgent.js"></script>
 	</head>
 	<body class="body" style="text-align: center">
 		<?php include('./header.php'); ?>
